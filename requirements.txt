@@ -1,0 +1,13 @@
+streamlit
+pillow
+tensorflow
+transformers
+torch
+rembg
+opencv-python
+numpy
+python-dotenv
+tqdm
+matplotlib
+albumentations
+openai
