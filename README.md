@@ -22,14 +22,14 @@ Este proyecto es un generador de anuncios publicitarios que utiliza un modelo Ge
 
 ## Instalación
 
-##1. Clona este repositorio:
+## 1. Clona este repositorio:
 
 git clone https://github.com/tuusuario/generador-anuncios-gan.git
 
-##2. Navega hasta:
+## 2. Navega hasta:
 cd generador-anuncios-gan
 
-##4. Instala las dependencias:
+## 3. Instala las dependencias:
 pip install -r requirements.txt
 
 
